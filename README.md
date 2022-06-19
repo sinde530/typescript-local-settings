@@ -1,2 +1,3 @@
 # typescript-local-settings
-wqeqwqwewq
+
+타입스크립트 로컬 셋팅
