@@ -1,9 +1,8 @@
-import { render } from "react-dom";
-
+import { render } from "@testing-library/react";
 import App from "./App";
 
-describe("", () => {
-  it("", () => {
-    const { container } = render(<App />);
+describe("App", () => {
+  it("renders App Components", () => {
+    render(<App />);
   });
 });
