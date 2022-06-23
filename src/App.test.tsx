@@ -4,6 +4,8 @@ import App from "./App";
 
 describe("App", () => {
   it("renders App Components", () => {
-    render(<App />);
+    const { container } = render(<App />);
+
+    expect(container).toHaveTextContent("hy");
   });
 });
