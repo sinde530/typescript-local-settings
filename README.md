@@ -1,5 +1,7 @@
 # typescript-local-settings
 
+## 업데이트 필요
+
 타입스크립트 로컬 셋팅
 
 ## typescriptreact.json
